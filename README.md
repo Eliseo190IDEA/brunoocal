@@ -8,7 +8,7 @@
 - Un nivel básico de C#
 
 ### 👑 Proyectos en los que he estado/colaborado.
-- PyroNode - Creé la web - *(Server Hosting website)* [Web](https://pyronode.com) | [Twitter](https://twitter.com/PyroNode) | [Repo](https://github.com/brunoocal/Pyronode)
+- PyroNode - Creé la web - *(Server Hosting website)* - [Web](https://pyronode.com) | [Twitter](https://twitter.com/PyroNode) | [Repo](https://github.com/brunoocal/Pyronode)
 - Floppy - Creé un asistente de configuración web - *(Discord Bot)* - [Web](https://floppy-assistant.vercel.app) | [Discord](https://floppy.red/discord) | [Twitter](https://floppy.red/twitter) | [Repo](https://github.com/brunoocal/FloppyAssistant)
 - PreMID - Estoy en desarrollo de una extensión para [Platzi](https://www.platzi.com) *(Extensión)* - [Web](https://premid.app) | [Repo](https://github.com/PlatziPreMID)
 
