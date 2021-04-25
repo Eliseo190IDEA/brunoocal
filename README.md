@@ -14,7 +14,7 @@
 
 ### Redes sociales
 [![Twitter Follow](https://img.shields.io/twitter/follow/brunoo_cal?color=orange&label=Twitter&logo=brunoo_cal&style=for-the-badge)](https://twitter.com/brunoo_cal)
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=Brunooh%231181&color=orange&style=for-the-badge)]
+![Discord](https://img.shields.io/static/v1?label=Discord&message=Brunooh%231181&color=orange&style=for-the-badge)
 
 
 ### 📊 Estadísticas
