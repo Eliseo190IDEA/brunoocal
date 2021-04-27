@@ -4,8 +4,14 @@
 
 ### 🔧 Lenguajes aprendidos
 - JavaScript
+- CSS
 - Un nivel básico de Java
 - Un nivel básico de C#
+
+### 🔧 Tecnologías aprendidas
+- React (router, transition-groups, helmet, styled-components)
+- SASS
+- Git
 
 ### 👑 Proyectos en los que he estado/colaborado.
 - ZoneCraft/ZoneHosting - Creé la web de su Hosting - *(Server Hosting website)* - [Web](https://zonehosting.com) | [Twitter](https://twitter.com/ZoneCraftES)
