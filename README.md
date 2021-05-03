@@ -28,6 +28,4 @@
 <a href="https://github.com/brunoocal">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal&langs_count=3&theme=dark" align="center">
 </a>
-<a href="https://wakatime.com/@brunoocal">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&show_icons=true&hide_border=true&theme=dark">
-</a>  
+
