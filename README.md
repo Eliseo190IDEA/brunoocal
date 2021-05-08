@@ -3,7 +3,7 @@
 > Puedo hacer backend con express, pero no es lo que se me da mejor.
 
 ### 🔧 Lenguajes aprendidos
-- JavaScript
+- JavaScript & algo de TypeScript
 - CSS
 - Un nivel básico de Java
 - Un nivel básico de C#
@@ -28,4 +28,6 @@
 <a href="https://github.com/brunoocal">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal&langs_count=3&theme=dark" align="center">
 </a>
-
+<a href="https://wakatime.com/@brunoocal">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" align="center">
+</a>
