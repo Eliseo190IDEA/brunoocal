@@ -18,6 +18,7 @@
 - PyroNode - Creé la web - *(Server Hosting website)* - [Web](https://pyronode.com) | [Twitter](https://twitter.com/PyroNode) | [Repo](https://github.com/brunoocal/Pyronode)
 - Floppy - Creé un asistente de configuración web - *(Discord Bot)* - [Web](https://floppy-assistant.vercel.app) | [Discord](https://floppy.red/discord) | [Twitter](https://floppy.red/twitter) | [Repo](https://github.com/brunoocal/FloppyAssistant)
 - PreMID - Desarrollé una extensión de [Platzi](https://www.platzi.com) - *(Extensión)* - [Web](https://premid.app) | [Extensión](https://premid.app/store/presences/Platzi) | [Repo](https://github.com/PlatziPreMID)
+- Estoy en desarrollo de [Twitch Ultra Notifications](https://twitter.com/alekitopi/status/1397003597490053120), una extensión desarrollada en la web para visualizar las [Encuestas](https://dev.twitch.tv/docs/api/reference#get-polls) y las [Predicciones](https://dev.twitch.tv/docs/api/reference#get-predictions) en una interfaz web y poder usarla como Widget en OBS, Inspirada por un clip de TheGrefg.
 
 ### Redes sociales
 [![Twitter Follow](https://img.shields.io/twitter/follow/brunoo_cal?color=orange&label=Twitter&logo=brunoo_cal&style=for-the-badge)](https://twitter.com/brunoo_cal)
