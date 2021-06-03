@@ -17,6 +17,7 @@
 - ZoneCraft/ZoneHosting - Creé la web de su Hosting - *(Server Hosting website)* - [Web](https://zonehosting.net) | [Twitter](https://twitter.com/ZoneCraftES)
 - PyroNode - Creé la web - *(Server Hosting website)* - [Web](https://pyronode.com) | [Twitter](https://twitter.com/PyroNode) | [Repo](https://github.com/brunoocal/Pyronode)
 - Floppy - Creé un asistente de configuración web - *(Discord Bot)* - [Web](https://floppy-assistant.vercel.app) | [Discord](https://floppy.red/discord) | [Twitter](https://floppy.red/twitter) | [Repo](https://github.com/brunoocal/FloppyAssistant)
+- Floppy - Estoy en desarrollo de una Dashboard Web para el Bot - *bot dashboard* - [Discord](https://floppy.red/discord) | [Twitter](https://floppy.red/twitter)
 - PreMID - Desarrollé una extensión de [Platzi](https://www.platzi.com) - *(Extensión)* - [Web](https://premid.app) | [Extensión](https://premid.app/store/presences/Platzi) | [Repo](https://github.com/PlatziPreMID)
 - Estoy en desarrollo de [Twitch Ultra Notifications](https://twitter.com/alekitopi/status/1397003597490053120), una extensión desarrollada en la web para visualizar las [Encuestas](https://dev.twitch.tv/docs/api/reference#get-polls) y las [Predicciones](https://dev.twitch.tv/docs/api/reference#get-predictions) en una interfaz web y poder usarla como Widget en OBS, Inspirada por un clip de TheGrefg.
 
