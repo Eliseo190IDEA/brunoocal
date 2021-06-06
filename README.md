@@ -17,9 +17,13 @@
 - ZoneCraft/ZoneHosting - Creé la web de su Hosting - *(Server Hosting website)* - [Web](https://zonehosting.net) | [Twitter](https://twitter.com/ZoneCraftES)
 - PyroNode - Creé la web - *(Server Hosting website)* - [Web](https://pyronode.com) | [Twitter](https://twitter.com/PyroNode) | [Repo](https://github.com/brunoocal/Pyronode)
 - Floppy - Creé un asistente de configuración web - *(Discord Bot)* - [Web](https://floppy-assistant.vercel.app) | [Discord](https://floppy.red/discord) | [Twitter](https://floppy.red/twitter) | [Repo](https://github.com/brunoocal/FloppyAssistant)
-- Floppy - Estoy en desarrollo de una Dashboard Web para el Bot - *(bot dashboard)* - [Discord](https://floppy.red/discord) | [Twitter](https://floppy.red/twitter)
 - PreMID - Desarrollé una extensión de [Platzi](https://www.platzi.com) - *(Extensión)* - [Web](https://premid.app) | [Extensión](https://premid.app/store/presences/Platzi) | [Repo](https://github.com/PlatziPreMID)
+
+
+### 👑 Proyectos en los que estoy trabajando
 - Estoy en desarrollo de [Twitch Ultra Notifications](https://twitter.com/alekitopi/status/1397003597490053120), una extensión desarrollada en la web para visualizar las [Encuestas](https://dev.twitch.tv/docs/api/reference#get-polls) y las [Predicciones](https://dev.twitch.tv/docs/api/reference#get-predictions) en una interfaz web y poder usarla como Widget en OBS, Inspirada por un clip de TheGrefg.
+- Estoy en desarrollo de un clon de [OP.GG](https://las.op.gg/l=es), una web donde puedes ver estadísticas, campeones, y más datos sobre League of Legends. 
+- Floppy - Estoy en desarrollo de una Dashboard Web para el Bot - *(bot dashboard)* - [Discord](https://floppy.red/discord) | [Twitter](https://floppy.red/twitter)
 
 ### Redes sociales
 [![Twitter Follow](https://img.shields.io/twitter/follow/brunoo_cal?color=orange&label=Twitter&logo=brunoo_cal&style=for-the-badge)](https://twitter.com/brunoo_cal)
