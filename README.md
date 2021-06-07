@@ -3,7 +3,7 @@
 > Puedo hacer backend con express, pero no es lo que se me da mejor.
 
 ### 🔧 Lenguajes aprendidos
-- JavaScript & algo de TypeScript
+- JavaScript & TypeScript
 - CSS
 - Un nivel básico de Java
 - Un nivel básico de C#
