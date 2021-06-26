@@ -2,6 +2,11 @@
 > Soy un desarrollador frontend junior especializado en React, con experiencia en bastantes librerías.
 > Puedo hacer backend con express, pero no es lo que se me da mejor.
 
+### Ahora mismo estoy:
+
+(https://lanyard-profile-readme.vercel.app/api/698582921887481889)](https://discord.com/users/698582921887481889)
+
+
 ### 🔧 Lenguajes aprendidos
 - JavaScript & TypeScript
 - CSS
