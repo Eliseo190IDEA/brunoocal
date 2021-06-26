@@ -4,8 +4,9 @@
 
 ### Ahora mismo estoy:
 
-[a](https://lanyard-profile-readme.vercel.app/api/698582921887481889)](https://discord.com/users/698582921887481889)
-
+<a href="https://discord.com/users/698582921887481889">
+  <img src="https://lanyard-profile-readme.vercel.app/api/698582921887481889" align="center">
+</a>
 
 ### 🔧 Lenguajes aprendidos
 - JavaScript & TypeScript
