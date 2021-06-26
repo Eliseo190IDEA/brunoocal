@@ -4,7 +4,7 @@
 
 ### Ahora mismo estoy:
 
-(https://lanyard-profile-readme.vercel.app/api/698582921887481889)](https://discord.com/users/698582921887481889)
+[](https://lanyard-profile-readme.vercel.app/api/698582921887481889)](https://discord.com/users/698582921887481889)
 
 
 ### 🔧 Lenguajes aprendidos
