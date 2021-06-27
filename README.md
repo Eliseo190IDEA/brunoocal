@@ -39,9 +39,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal&langs_count=3&theme=dark" align="center">
 </a>
 <a href="https://wakatime.com/@brunoocal">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" align="center" style="height: 200px">
 </a>
-<svg width="600" height="200">       
-     <image xlink:href="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" width="600" height="200"/>    
-</svg>
-
