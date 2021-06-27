@@ -41,4 +41,7 @@
 <a href="https://wakatime.com/@brunoocal">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" align="center">
 </a>
-https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark
+<svg width="600" height="200">       
+     <image xlink:href="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" width="600" height="200"/>    
+</svg>
+
