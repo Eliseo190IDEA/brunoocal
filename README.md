@@ -10,12 +10,10 @@
 
 ### 🔧 Lenguajes aprendidos
 - JavaScript & TypeScript
-- CSS
-- Un nivel básico de Java
-- Un nivel básico de C#
+- CSS 
 
 ### 🔧 Tecnologías aprendidas
-- React (router, transition-groups, helmet, styled-components)
+- React (router, transition-groups, helmet, styled-components, etc)
 - SASS
 - Git
 
