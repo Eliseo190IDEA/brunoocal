@@ -71,7 +71,7 @@
 
 <div align="center">
   <a href="https://wakatime.com/@brunoocal">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" align="center" height="205px">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" align="center" height="195px">
   </a>
 </div>
 
