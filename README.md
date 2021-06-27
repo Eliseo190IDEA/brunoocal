@@ -35,7 +35,11 @@
 
 
 ### 📊 Estadísticas
-<div style="display:flex;justify-content:center;align-items:center;">
+<div style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+">
   <a href="https://github.com/brunoocal">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal&langs_count=3&theme=dark" align="center">
   </a>
