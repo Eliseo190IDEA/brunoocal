@@ -3,10 +3,12 @@
 > Puedo hacer backend con express, pero no es lo que se me da mejor.
 
 ### Ahora mismo estoy:
+<div align="center">
+  <a href="https://discord.com/users/698582921887481889">
+    <img src="https://lanyard-profile-readme.vercel.app/api/698582921887481889" align="center">
+  </a>
+</div>
 
-<a href="https://discord.com/users/698582921887481889">
-  <img src="https://lanyard-profile-readme.vercel.app/api/698582921887481889" align="center">
-</a>
 
 ### 🔧 Lenguajes aprendidos
 - JavaScript & TypeScript
