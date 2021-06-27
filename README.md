@@ -33,7 +33,7 @@
 
 <div align="center">
   <p align="center">
-      - JavaScript<br/>
+      - JavaScript (React, Express)<br/>
       - CSS (SASS) <br/>
       - TypeScript <br/>
       - Git
