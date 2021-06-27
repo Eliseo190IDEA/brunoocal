@@ -23,7 +23,7 @@
 </h3>
 <div align="center">
   <a href="https://discord.com/users/698582921887481889">
-    <img src="https://lanyard-profile-readme.vercel.app/api/698582921887481889" align="center">
+    <img src="https://lanyard-profile-readme.vercel.app/api/698582921887481889" align="center" height="205">
   </a>
 </div>
 
