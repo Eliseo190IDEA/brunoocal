@@ -60,8 +60,7 @@
 <div align="center">
   <p align="center">
     - Estoy en desarrollo de un clon de <a href="https://las.op.gg/l=es">OP.GG</a>, una web donde <br/> puedes ver estádisticas, campeones, y más datos sobre League of Legends. <br/>
-    - Floppy - Estoy en desarrollo de una Dashboard Web para el Bot - <em>(Bot Dashboard)</em> - <a href="https://floppy.red/twitter">Twitter<a/> | <a href="https://floppy.red/discord">Discord<a/> <br/>
-    - PreMID - Desarrollé una extensión para <a href="https://platzi.com">Platzi<a/> - <em>(Extensión)</em> - <a href="https://premid.app">Web<a/> | <a href="https://premid.app/store/presences/Platzi">Extensión<a/> | <a href="https://github.com/PlatziPreMID">Repo<a/>
+    - Floppy - Estoy en desarrollo de una Dashboard Web para el Bot - <em>(Bot Dashboard)</em> - <a href="https://floppy.red/twitter">Twitter<a/> | <a href="https://floppy.red/discord">Discord<a/>
   <p/>
 </div>
 
