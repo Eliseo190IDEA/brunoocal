@@ -6,9 +6,8 @@
 
   <blockquote>
     <p align="center">
-      Soy un desarrollador frontend junior especializado en React, con experiencia en bastantes librerías. <br/>
-      Puedo hacer backend con express, pero no es lo que se me da mejor.  <br/>
-      ¡En camino a ser Fullstack!
+      Soy un desarrollador junior fullstack, utilizando el stack MERN (Mongo, Express, React, Node).
+      Siempre estoy motivado a mejorar, ¡poco a poco escalamos montañas!
     <p/>
   </blockquote>
 
@@ -20,26 +19,13 @@
   <img src="https://komarev.com/ghpvc/?username=brunoocal&color=blue" align="center">
 </div>
 
-<h3 align="center">
-  Ahora mismo estoy:
+<h3>
+  Bueno, ahora mismo estoy:
 </h3>
-<div align="center">
+<div>
   <a href="https://discord.com/users/698582921887481889">
     <img src="https://lanyard-profile-readme.vercel.app/api/698582921887481889" align="center" height="205">
   </a>
-</div>
-
-<h3 align="center">
-  💻 ¿Con qué  trabajo?
-</h3>
-
-<div align="center">
-  <p align="center">
-      - JavaScript (React, Express)<br/>
-      - CSS (SASS) <br/>
-      - TypeScript <br/>
-      - Git
-  <p/>
 </div>
 
 <h3 align="center">
@@ -56,18 +42,7 @@
 </div>
 
 <h3 align="center">
-  🔧 Proyectos en los que estoy trabajando
-</h3>
-
-<div align="center">
-  <p align="center">
-    - Estoy en desarrollo de un clon de <a href="https://las.op.gg/l=es">OP.GG</a>, una web donde <br/> puedes ver estádisticas, campeones, y más datos sobre League of Legends. <br/>
-    - Floppy - Estoy en desarrollo de una Dashboard Web para el Bot - <em>(Bot Dashboard)</em> - <a href="https://floppy.red/twitter">Twitter<a/> | <a href="https://floppy.red/discord">Discord<a/>
-  <p/>
-</div>
-
-<h3 align="center">
-  📊 Estadísticas :p
+  📊 Estadísticas que no tienen mucha importancia.
 </h3>
 
 <div align="center">
