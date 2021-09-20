@@ -28,7 +28,7 @@
   </a>
 </div>
 
-<h3 align="center">
+<h3 >
   👑 Proyectos en los que he estado/colaborado.
 </h3>
 
@@ -41,7 +41,7 @@
   <p/>
 </div>
 
-<h3 align="center">
+<h3 >
   📊 Estadísticas que no tienen mucha importancia.
 </h3>
 
