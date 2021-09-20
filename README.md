@@ -32,8 +32,8 @@
   👑 Proyectos en los que he estado/colaborado.
 </h3>
 
-<div align="center">
-  <p align="center">
+<div >
+  <p >
     - ZoneCraft/ZoneHosting - Creé la web de su Hosting - <em>(Server Hosting Website)</em> - <a href="https://zonehosting.net">Web<a/> | <a           href="https://twitter.com/ZoneCraftES">Twitter<a/> <br/>
     - Pyronode - Creé su web- <em>(Server Hosting Website)</em> - <a href="https://pyronode.com">Web<a/> | <a href="https://twitter.com/PyroNode">Twitter<a/> | <a href="https://github.com/brunoocal/Pyronode">Repo<a/> <br/>
     - Floppy - Creé su asistente de configuración web - <em>(Discord Bot)</em> - <a href="https://floppy-assistant.vercel.app">Web<a/> | <a href="https://floppy.red/twitter">Twitter<a/> | <a href="https://floppy.red/discord">Discord<a/> | <a href="https://github.com/brunoocal/FloppyAssistant">Repo<a/> <br/>
@@ -45,7 +45,7 @@
   📊 Estadísticas que no tienen mucha importancia.
 </h3>
 
-<div align="center">
+<div >
   <a href="https://wakatime.com/@brunoocal">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brunoocal&layout=compact&theme=dark" align="center" height="195px">
   </a>
