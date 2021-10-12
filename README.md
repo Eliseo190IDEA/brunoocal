@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://twitter.com/brunoohdev">
-    <img src="https://img.shields.io/twitter/follow/brunoo_cal?color=blue&label=Twitter&logo=brunoo_cal&style=for-the-badge" align="center">
+    <img src="https://img.shields.io/twitter/follow/brunoohdev?color=blue&label=Twitter&logo=brunoohdev&style=for-the-badge" align="center">
   </a>
   <img src="https://img.shields.io/static/v1?label=Discord&message=Brunooh%231181&color=blue&style=for-the-badge" align="center">
   <img src="https://komarev.com/ghpvc/?username=brunoocal&color=blue" align="center">
